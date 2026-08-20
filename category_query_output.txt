@@ -1,0 +1,61 @@
+-------------------------------------
+Category: 3d-printing
+Amount of models for this category: 262
+The unique subcategories within this category are: ['unknown', '3d-printer-accessories', '3d-printers', '3d-printing-tests', '3d-printer-extruders', '3d-printer-parts']
+Some examples of model names are: ['Smiley Cube Man  ', 'Universal stand-alone filament spool holder (Fully 3D-printable) ', 'Balloon Powered Jet Car with Snap in Wheels ', 'Chess Set ', 'Motos para a eternidade ', 'Texture model of romanesco ', 'iPod Nano 6th Generation Watch ', 'Violin bracket ', 'Automatic Print Ejector - The Punching Machine ', 'PHIL - The Filament Holder by TheNewHob', 'Smartphone Photo Studio for #3DBenchy and tiny stuff ', 'Hinged Box With Latch; Somewhat Parametric and Printable In One Piece ', 'First Take Off of a fully printed (FDM) sailplane.  ', 'AMP Awards 2013 ', 'Heavy Duty Lazy Susan for Full Body Scanning (Legacy Design) ', 'Dinosaur Tool Holder (with hooks for MakerBot Replicator / Replicator2) ', 'Fully assembled 3D printable wrench ', 'Filament Colorizer - Marker Holder For 3mm filament ', 'Dissolvable Support Gearbox ', 'mk7 ball bearing extruder drive ']
+--------------------------------------------------------------------------
+Category: None
+Amount of models for this category: 1599
+The unique subcategories within this category are: ['None']
+Some examples of model names are: ['Compound Christmas Ornament ', 'Pseudo Stained Glass lamp ', 'Bow tie 02 - wave ', 'Wind-Up Engine V1.2 Updated - Fully Printed ', '&quot;I Love You&quot; Box ', 'Chainmail Holiday Wreath ', 'Molded Mask ', '5-Cylinder Radial Engine Model ', 'Complete Animal Chess ', 'Parametric fan grille ', 'Army of Bunnies ', 'Sphere ', 'Spiff.scad ', 'Threadless Ball Screw. No More Backlash ', 'Thrift Store Ancient Relic -- Digitized! ', 'Open Source Action Figure with 70 Points of Articulation (aka Dexter) ', 'Antique Diver&#039;s Suit ', 'Crystals ', 'Octocat ', 'Castle Stairs ']
+--------------------------------------------------------------------------
+Category: art
+Amount of models for this category: 913
+The unique subcategories within this category are: ['math-art', 'interactive-art', 'signs-and-logos', 'scans-and-replicas', 'sculptures', 'art-tools', 'unknown', 'coins-and-badges', '2d-art']
+Some examples of model names are: [' Holed Christmas Ornament    ', 'Low poly vase + projection mapping + motor ', 'Vintage Marquee Letters ', 'Koch Snowflake Vase 1 ', 'Escher for Real ', 'Spherical Harmonic Christmas Sphere  ', 'Recursive Snowflakes   ', 'Superlambanana ', 'Garden Toad ', 'Parametric two-part mold generator for OpenSCAD ', 'Johnson Compounds as Ornament ', 'Gunny Sacks ', 'Simple Sculpture Construction Kit ', 'Many Coins ', 'Blizzard of Unique Snowflakes ', 'Five turn cubist torus ', ' Ornaments for Children&#039;s Party     ', 'Steampunk cube gears ', 'Mumble the Abominable Snow Monster ', 'USB Christmas star - No Glue + LED holes ']
+--------------------------------------------------------------------------
+Category: fashion
+Amount of models for this category: 356
+The unique subcategories within this category are: ['keychains', 'costume', 'bracelets', 'jewelry', 'glasses', 'accessories', 'rings', 'earrings', 'unknown']
+Some examples of model names are: ['Keyed Screwless Heart Gear Keychain Pendant ', 'Low Poly Mask  ', 'Geared Heart -Single Print with Moving Parts - Last Minute Gift ', 'A gift box for valentine ', 'Castle Bracelet ', 'Polix - Polygonal Necklace ', 'Shamrock glasses - Saint Patrick&#039;s Day ', 'Beer Belt Clip ', 'Snap Together Shutter Shades ', 'Customizable KeyChain ', 'Customizable Word Rings ', 'Really Simple Animatronic Tail ', 'Geo Necklace 01 ', 'Twisted Brick ', 'Bird in Cage Pendant ', 'Lace Digital Rose by TheNewHob', 'Hylian Shield for Stubby Ring-a-thing ', 'Ampersand Carabiner ', 'for the birds ', 'Wolverine Claws in plastic ']
+--------------------------------------------------------------------------
+Category: gadgets
+Amount of models for this category: 448
+The unique subcategories within this category are: ['mobile-phone', 'camera', 'unknown', 'audio', 'computer', 'video-games', 'tablet']
+Some examples of model names are: ['iPhone Tank Case - Gen 4 and 4s ', 'Swiss Army Style SD Holder (Expandable)(Raspberry adaptors) ', 'Tripod 3-axis tilt head ', 'Large scale Divers watch desk clock ', 'Earbud holder ', 'Hand-made camera lens ', 'WatchOut! - DIY-Mini-Synthesizer ', 'CheerTree ', 'Companion Cube Gift box ', 'iLove U Signal for iPhone ', 'Play Music iphone Christmas Ornament ', 'Air Stand 2.0 ', 'RaspBMO (Handheld Raspberry Pi Emulator) ', 'Time-lapse motion control rig for GoPro ', 'Compact solar charger / flashlight ', 'iPhone Gear Case ', 'Mason Blaster ', 'Nokia Lumia 820 MakerBot Shell  ', 'Mac SE/30 iPod Nano Dock ', 'ZENDOME Stereoscopic 3D NEXUS 7 ']
+--------------------------------------------------------------------------
+Category: hobby
+Amount of models for this category: 1125
+The unique subcategories within this category are: ['rc-vehicles', 'robotics', 'sports-and-outdoors', 'music', 'diy', 'electronics', 'automotive', 'unknown']
+Some examples of model names are: ['Full ABS RC plane with brushless electric motor ', 'Micro Robot arm (9g Micro Servo) see video ', 'ROFI bipedal robot ', 'Flexy-Hand ', 'Treads ', 'Dart Rack ', 'The Glaucus: A soft robot quadruped ', 'Tri-Bladed Boomerang ', 'Piano Sustain Pedal (updated) ', 'OpenRC 1:10 Winter fun wheels ', 'Printable caterpillar track ', 'Printable Trumpet ', 'Mini Quadruped - optimized for 9G servos ', 'Solar Powered Stereo ', 'Accustic Guitar Pick Up/Holder; Now on Customizer ', 'Moidules - Create your own custom made shelving system at home! ', 'Pi Command Center ', 'Universal Servo Driven Tank Tracks ', 'Wifi Camera Tank; Only Bigger ', 'One-Piece One-Handed Guitar Capo ']
+--------------------------------------------------------------------------
+Category: household
+Amount of models for this category: 881
+The unique subcategories within this category are: ['decor', 'organization', 'outdoor-and-garden', 'containers', 'kitchen-and-dining', 'pets', 'bathroom', 'unknown', 'office', 'household-supplies', 'replacement-parts']
+Some examples of model names are: ['Geo lamp ', 'The Hanger Chain  ', 'Bird feeder 4.0 ', 'Nesting Igloos ', 'Tardis with drawers ', 'Party Plate ', 'Egg Tray  ', 'Holiday Gekkoflakes ', 'Turbine inspired lamp shade ', 'Frankenstein Light Switch Plate ', 'Christmas tree Jamboree 01 ', 'Turkey Cutter for Jellied Cranberry Sauce ', 'Gyroscopic Snowflake ', 'measuring cup with handle and spout ', 'Yet More Twisting Kochflake Vases ', 'Double Twisted Vase ', 'Mine creeper lights ', 'holo clock ', 'Blossoming Lamp ', 'LED House ']
+--------------------------------------------------------------------------
+Category: learning
+Amount of models for this category: 543
+The unique subcategories within this category are: ['engineering', 'biology', 'math', 'physics-and-astronomy', 'unknown']
+Some examples of model names are: ['Automatic Transmission Model ', '70S Ribosome ', 'Human Skull (front halve) ', 'Human Skull ', 'Pythagorean Theorem ', 'JP Aerospace PongSat ', 'Math Spinner Enhanced (fast print; no support) ', 'Geiger Counter Case ', 'Splint for injured finger (research only) ', 'Parametric Printable Combination Lock ', 'Mars Curiosity Rover ', 'Plastic spring ', 'Asteroid Vesta - hi res from NASA model ', 'Napier Deltic Engine Model ', 'Movable 3D printed engine. ', 'Customizable MakeItFloat 1.0 ', 'Wind Energy Stored In Gravity ', 'Sand Spirograph ', 'Adjustable Volume Straw Pipette ', 'A Fully Printable Microscope  ']
+--------------------------------------------------------------------------
+Category: models
+Amount of models for this category: 1628
+The unique subcategories within this category are: ['model-robots', 'buildings-and-structures', 'vehicles', 'animals', 'props', 'people', 'unknown', 'creatures', 'food-and-drink', 'model-furniture']
+Some examples of model names are: ['Robot woman &quot;Robotica&quot; ', 'Stonehenge ', 'Helicopter ', 'Cat ', 'Big Ben ', 'Lightsaber with internal components mega project! ', 'Stone cottage ', 'Gree Sitting ', 'Flexy-Hand 2 ', 'Victorian House Construction Set ', 'Fallout Microfusion Cell Replica ', 'Printable Architecture KIT Series 1 ', 'Printable Architecture Kit 2 Victorian Town House ', 'Superb_owl ', 'Cyborg Beast  ', '3D map of Switzerland ', 'Fairchild 22 aircraft ', 'Snowman maker (add two ball snowman) ', 'Customizable blimp for embossing or dualstrusion ', 'Modular truss system ']
+--------------------------------------------------------------------------
+Category: tools
+Amount of models for this category: 288
+The unique subcategories within this category are: ['hand-tools', 'unknown', 'parts', 'tool-holders-and-boxes', 'machine-tools']
+Some examples of model names are: ['Parametric Magnetic Driver Bit Handle ', 'Vacuum Former ', 'Center Finder ', 'Uniform and scalable reduction gear (1:256) ', 'cliff-therm ', 'Bit Bracelet ', 'Pump Hand Drill ', 'NUT JOB | Nut; Bolt; Washer and Threaded Rod Factory ', 'BB King - the 3D Printed Roller Bearing ', 'Folding Magnifying Glass ', 'Ryobi Delta Detail Sander Head Replacement ', 'Colorimeter V0.0 ', 'Metric Hex Driver Wall Mount ', 'PCB Workstation with Articulated Arms ', 'Customizable Press-fit Broom or Mop Handle ', 'Gear Bearing ', 'Miter Razor ', 'Customizable Cable Tie ', 'Sliding Storage Drawers ', 'Turbine Rotary Tool 60000 rpm ']
+--------------------------------------------------------------------------
+Category: toys-and-games
+Amount of models for this category: 1951
+The unique subcategories within this category are: ['toy-and-game-accessories', 'games', 'mechanical-toys', 'playsets', 'puzzles', 'unknown', 'construction-toys', 'dice', 'chess']
+Some examples of model names are: ['Airprop Toycar ', 'The Dread Gazebo!!!! ', 'OpenRC 1:10 RC Differential ', 'Zheng3 Firecracker Cannon ', 'Seej Starter Set ', 'Lego and Duplo Bumper Car ', 'Programable Cryptex ', 'Toyota 4 Cylinder Engine 22RE Complete working model ', 'Whirly One (OpenSCAD) ', 'Butterfly Comb (Fun; Functional; Aggressive) ', 'Advent Calendar ', 'Angular Stacking Block Game Pieces ', 'Double Decker Bus & Chassis (Parametric) ', 'Pacman Ghost; Steampunk Version ', 'Breach Preview ', 'Santa Sleigh with 8 Reindeer for Lego minifigures ', 'Mini Programable Cryptex ', 'Mini Programable Cryptex - Easier Printing ', 'Playing Card Box ', 'Projekt MUSE Z-System ']
+--------------------------------------------------------------------------
+Category: unknown
+Amount of models for this category: 1
+The unique subcategories within this category are: ['unknown']
+Some examples of model names are: ['unknown']
+-------------------------------------
